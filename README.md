@@ -23,6 +23,16 @@ Ever wondered what you could code in just 30 minutes? This repository showcases 
   - Supports basic operators (+, -, *, /)
   - Order of operations
 
+## 🎯 Future Challenges
+
+Planning to tackle these interesting problems:
+- JSON Parser: Parse and validate JSON strings
+- SAT Solver: Simple boolean satisfaction problem solver
+- Regex Engine: Basic regular expression matcher
+- Simple Shell: Command-line interpreter
+- Simple Compiler: Tiny language to bytecode compiler
+- ...
+
 ## 💡 Why CodeSprint?
 
 - **Time-Boxed**: Each solution is crafted in 30 minutes or less

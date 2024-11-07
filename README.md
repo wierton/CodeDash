@@ -1,6 +1,6 @@
-# CodeDash ⚡
+# CodeSprint 🚀
 
-**30-Minute Coding Challenges** - Swift solutions to keep coding skills sharp!
+**30-Minute Coding Challenges** - Quick solutions to keep coding skills sharp!
 
 Ever wondered what you could code in just 30 minutes? This repository showcases daily programming challenges where each solution is implemented within a strict 30-minute time limit. It's about thinking fast, coding smart, and building muscle memory.
 
@@ -23,7 +23,7 @@ Ever wondered what you could code in just 30 minutes? This repository showcases 
   - Supports basic operators (+, -, *, /)
   - Order of operations
 
-## 💡 Why CodeDash?
+## 💡 Why CodeSprint?
 
 - **Time-Boxed**: Each solution is crafted in 30 minutes or less
 - **Real Problems**: Practical implementations you might face in interviews
@@ -34,7 +34,7 @@ Ever wondered what you could code in just 30 minutes? This repository showcases 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CodeDash
+git clone https://github.com/wierton/CodeSprint
 
 # Compile and run (example)
 g++ 2024-11-07/snake.cc -o snake
